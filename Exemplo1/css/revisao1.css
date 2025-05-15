@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+
+}
+h1{
+    font-family: 'Lucida Handwriting';   
+    color: red;
+    text-align: center;
+    margin: 0px;
+    background-color: yellow;
+}
+p{
+    margin: 0px;
+    Color:blue;
+    background-color: yellow;
+    text-align: left;
+
+}
+strong{
+    text-decoration: underline;
+    font-style: italic;
+}
+.fonte{
+text-align: right;
+
+}
+img{
+    float: left;
+    height: 110px;
+    width: px;
+    border: 4px solid #d2d42d;
+    border-radius: 15px;
+    box-shadow:5px 5px 15px rgba(0,0,0,0.2);
+    display: block;
+    margin: 0px;
+    opacity:0.95;
+}

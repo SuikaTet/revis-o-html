@@ -1,0 +1,14 @@
+p{
+    color:rgb(37, 138, 155);
+    font-size: 30px;
+    text-align: center;
+}
+strong{
+    color: red
+}
+em{
+    color:gray;
+    font-style: normal;
+    font-size: 50px;
+    font-weight:600;
+}

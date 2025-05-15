@@ -1,0 +1,21 @@
+p1{
+    color:blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: right;
+}
+em{
+    color:rgb(108, 106, 106);
+    font-weight: 300;
+    text-decoration: underline;
+    
+
+}
+p2{
+    color:green;
+    font-weight: 700;
+    text-align: center;
+
+}
+br{
+    line-height: 20px;
+}
